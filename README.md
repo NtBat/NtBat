@@ -19,3 +19,5 @@ function About() {
 
 export default About;
 ```
+
+personal website and blog 📝 [**ntbatista.com**](https://ntbatista.com). 
