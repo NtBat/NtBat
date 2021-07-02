@@ -12,8 +12,8 @@ function About() {
   const nt = { 
     age: 26,
     location: 'Brazil',
-    languages: ['Javascript', 'Typescript', 'HTML', 'CSS', 'Node', 'React Native' ],
-    tools: ['React', 'Redux', 'Styled-Components', 'Express']
+    languages: ['React', 'NextJS', 'Javascript', 'Typescript', 'HTML', 'CSS', 'Node', 'React Native' ],
+    tools: ['Styled-Components', 'Express']
   }
 }
 
