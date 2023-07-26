@@ -9,15 +9,13 @@
 import React from 'react';
 
 function About() {
-  const nt = { 
-    age: 26,
+  const profile = { 
+    age: 29,
     location: 'Brazil',
-    languages: ['React', 'NextJS', 'Javascript', 'Typescript', 'HTML', 'CSS', 'Node', 'React Native' ],
-    tools: ['Styled-Components', 'Express']
+    languages: ['React', 'NextJS', 'Javascript', 'Typescript', 'HTML', 'CSS', 'Node', 'React Native', 'JEST', 'React Testing Library', 'Tailwind', 'Storybook' ],
   }
 }
 
 export default About;
 ```
 
-personal website and blog 📝 [**ntbatista.com**](https://ntbatista.com). 
